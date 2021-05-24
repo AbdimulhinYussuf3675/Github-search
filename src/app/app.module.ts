@@ -12,6 +12,7 @@ import { AppComponent } from './app.component';
 import { ProfileComponent } from './profile/profile.component';
 import { StrikethroughDirective } from './strikethrough.directive';
 import { ServicesCountPipe } from './services-count.pipe';
+import { NavbarComponent } from './navbar/navbar.component';
 
 @NgModule({
   declarations: [
@@ -19,6 +20,7 @@ import { ServicesCountPipe } from './services-count.pipe';
     ProfileComponent,
     StrikethroughDirective,
     ServicesCountPipe,
+    NavbarComponent,
   ],
   imports: [
     BrowserModule,
