@@ -1,13 +1,14 @@
-# GITHUB SEARCH
+# Github-search
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 <table>
 <tr>
 <td>
-  This is basically a  Github search. that shows you the github usernames. 
+  This is basically a  GITHUB search app. that shows Github user, information and repositories. it has an input form in which when ithub username is typed it brings all informations
 
-## Mobile support
-This is basically a  Github search. that shows you the github usernames
+## Support and contact details
+You can contact me through my email adamabdimulhi.001@gmail.com
+
 ### Development
 Want to contribute? Awesome!
 To fix a bug or enhance an existing module, follow these steps:
@@ -18,9 +19,12 @@ To fix a bug or enhance an existing module, follow these steps:
 - Commit your changes (`git commit -am 'Improve feature'`)
 - Push to the branch (`git push origin improve-feature`)
 - Create a Pull Request
-## built with
-   -HTML
-   -CSS 
-   -TYPESCRIPT
+## Lanuages used
+- TYPESCRIPT
+- CSS
+- HTML
+- JAVASCRIPT
+   ### Live Site
+View [live]()
 ## Author
-- Khalid Ali Gosor
+- [Abdimulhin Adan](https://github.com/AbdimulhinYussuf3675)
