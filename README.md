@@ -1,3 +1,5 @@
+## Author
+- [Abdimulhin Adan](https://github.com/AbdimulhinYussuf3675)
 # Github-search
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
@@ -26,5 +28,3 @@ To fix a bug or enhance an existing module, follow these steps:
 - JAVASCRIPT
    ### Live Site
 View [live](https://github.com/AbdimulhinYussuf3675/Github-search)
-## Author
-- [Abdimulhin Adan](https://github.com/AbdimulhinYussuf3675)
