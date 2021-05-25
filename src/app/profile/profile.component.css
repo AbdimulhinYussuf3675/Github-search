@@ -1,9 +1,16 @@
-.search-form{
-    padding-top: 50px;
-  
-  }
-  h3{
-    color: white;
-    font-size: large;
-    font-weight: bold;
-  }
+h3{
+  font-family: cursive;
+  font-size: xx-large;
+  font-style: italic;
+  margin-left: 12%;
+}
+#content{
+  margin-top: 40px;
+}
+#clizzy{
+  margin-top: -25%;
+}
+#base a:hover{
+  color: blanchedalmond;
+
+}
